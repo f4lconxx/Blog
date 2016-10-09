@@ -1,2 +1,2 @@
 # Bolg
-This is New64K bolg
+This is New64K blog
